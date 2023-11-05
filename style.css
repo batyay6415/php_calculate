@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    padding: 1em;
+    margin: 0 auto;
+    width: 10em;
+    border: 1px solid #000;
+    flex-direction: column;
+}
+
+label{
+    display: block;
+    font-size: 0.8em;
+}
+input{
+    margin-bottom: 1em;
+     height: 2em;
+}
+button{
+    height: 2em;
+    background-color: #ff9500;
+    border: none;
+}
